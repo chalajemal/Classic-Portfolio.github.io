@@ -1,4 +1,3 @@
-@@ -1,51 +1 @@
 // geting canvas by id c
 var c = document.getElementById("c");
 var ctx = c.getContext("2d");
